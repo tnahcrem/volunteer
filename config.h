@@ -7,6 +7,8 @@
 /* optional indices to skip particular JV
 the indices start from 0
 if you dont wast to skip assign it 9999 so it is invalid
+for e.g. in SHerullah - LQ night we want to skip JV2 and JV3
+on LQ sehori we want to skip all JVs
 */
 #define SKIP_JV1_A 22
 #define SKIP_JV1_B 9999 // invalid
