@@ -6,12 +6,12 @@ Steps to run:
 
 2) copy list of dates from miqaat sheet in dates.txt.
 
-3) copy list of volunteers in shabab.txt (note the names of people should be same format/spelling in hosts.txt and shabab.txt - else if it does not match soem volunteers might get assigned on day of their jaman).
+3) copy list of volunteers in shabab.txt (note the names of people should be same format/spelling in hosts.txt and shabab.txt - else if it does not match some volunteers might get assigned on day of their jaman).
 
 4) modify the defines in config.h appropriately.
 
-5) compile and run the .cpp file and it should generate a csv containing three columns of JV.
+5) compile and run the .cpp file and it should generate a out.csv containing three columns of JV.
 
 
 Note:
-All the decision logic is in the canAssign() function
+All the decision logic is in the canAssign() function in the .cpp file.
