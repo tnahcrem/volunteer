@@ -2,7 +2,7 @@
 simple volunteer assignment tool
 
 Steps to run:
-1) copy list of hosts from miqaat sheet in hosts.txt.
+1) copy list of hosts from miqaat sheet in hosts.txt and copy cohosts in cohosts.txt
 
 2) copy list of dates from miqaat sheet in dates.txt.
 
